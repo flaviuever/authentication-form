@@ -41,6 +41,27 @@
       "text": "sad but true...",
       "from": "user2@mail.com",
       "to": "user1@mail.com"
+    },
+    {
+      "id": 7,
+      "subject": "asddasd",
+      "text": "asdasdasdadsad",
+      "from": "asd@asd.com",
+      "to": "csf@csf.com"
+    },
+    {
+      "id": 8,
+      "subject": "Te iubiii",
+      "text": "Hai afara la zapadaaaa",
+      "from": "lili@iubita.com",
+      "to": "lili@iubita.com"
+    },
+    {
+      "id": 9,
+      "subject": "Salut",
+      "text": "Sal cf dai web?",
+      "from": "cat@cat.com",
+      "to": "asd@asd.com"
     }
   ],
   "users": [
@@ -53,6 +74,31 @@
       "id": 2,
       "mail": "user2@mail.com",
       "password": "lorem2"
+    },
+    {
+      "id": 3,
+      "mail": "asd@asd.com",
+      "password": "asdasd"
+    },
+    {
+      "id": 4,
+      "mail": "lili@pookie.com",
+      "password": "asdasd"
+    },
+    {
+      "id": 5,
+      "mail": "flaviu.cismas@gmail.com",
+      "password": "flaviu123"
+    },
+    {
+      "id": 6,
+      "mail": "lili@iubita.com",
+      "password": "iubita123"
+    },
+    {
+      "id": 7,
+      "mail": "cat@cat.com",
+      "password": "catcat"
     }
   ]
 }

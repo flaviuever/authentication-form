@@ -93,7 +93,7 @@ app.post('/mails', auth.authenticateToken, (req, res) => {
     .get('mails')
     .push({
       id: id,
-      title: req.body.subject,
+      subject: req.body.subject,
       text: req.body.text,
       from: req.user,
       to: req.body.to,
