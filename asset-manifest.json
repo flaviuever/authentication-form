@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/authentication-form/static/js/main.59a3328b.chunk.js",
+    "main.js.map": "/authentication-form/static/js/main.59a3328b.chunk.js.map",
+    "runtime-main.js": "/authentication-form/static/js/runtime-main.75922885.js",
+    "runtime-main.js.map": "/authentication-form/static/js/runtime-main.75922885.js.map",
+    "static/css/2.862b2f9f.chunk.css": "/authentication-form/static/css/2.862b2f9f.chunk.css",
+    "static/js/2.7c93f880.chunk.js": "/authentication-form/static/js/2.7c93f880.chunk.js",
+    "static/js/2.7c93f880.chunk.js.map": "/authentication-form/static/js/2.7c93f880.chunk.js.map",
+    "index.html": "/authentication-form/index.html",
+    "precache-manifest.588e20487c5a5d8ad4fb01aad32537dc.js": "/authentication-form/precache-manifest.588e20487c5a5d8ad4fb01aad32537dc.js",
+    "service-worker.js": "/authentication-form/service-worker.js",
+    "static/css/2.862b2f9f.chunk.css.map": "/authentication-form/static/css/2.862b2f9f.chunk.css.map",
+    "static/js/2.7c93f880.chunk.js.LICENSE.txt": "/authentication-form/static/js/2.7c93f880.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75922885.js",
+    "static/css/2.862b2f9f.chunk.css",
+    "static/js/2.7c93f880.chunk.js",
+    "static/js/main.59a3328b.chunk.js"
+  ]
+}
